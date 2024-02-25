@@ -1,0 +1,2 @@
+### Installing pip packages to lower version of python
+* Jupyter only supports Python 3.9, install packages using: `/path/to/file -m pip3 install biopython`, i.e. `/usr/bin/python3 -m pip3 install biopython`
