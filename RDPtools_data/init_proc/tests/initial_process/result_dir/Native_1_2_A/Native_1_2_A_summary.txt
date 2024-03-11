@@ -1,0 +1,14 @@
+Tag	Native_1_2_A
+Total sequences	130
+Sequences after trimming	118
+Average sequence length after trimming	332
+Standard Deviation of sequence length	3.24
+
+Filtered sequence summary
+Character Replacement Filter	0
+Sequence Alphabet Filter	0
+Primer trimmer	12
+N count > 0 seq filter	0
+GreaterThan 300 sequence length filter	0
+LessThan 350 sequence length filter	0
+Exponential Quality Filter	0

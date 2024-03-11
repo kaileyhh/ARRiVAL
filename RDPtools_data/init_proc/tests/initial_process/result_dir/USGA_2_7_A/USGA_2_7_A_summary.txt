@@ -1,0 +1,14 @@
+Tag	USGA_2_7_A
+Total sequences	138
+Sequences after trimming	128
+Average sequence length after trimming	331
+Standard Deviation of sequence length	1.3
+
+Filtered sequence summary
+Character Replacement Filter	0
+Sequence Alphabet Filter	0
+Primer trimmer	9
+N count > 0 seq filter	1
+GreaterThan 300 sequence length filter	0
+LessThan 350 sequence length filter	0
+Exponential Quality Filter	0

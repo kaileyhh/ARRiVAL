@@ -1,0 +1,8 @@
+Sequence Length	Count of Sequences with Length
+329	4
+330	9
+331	11
+332	30
+333	4
+334	3
+335	1

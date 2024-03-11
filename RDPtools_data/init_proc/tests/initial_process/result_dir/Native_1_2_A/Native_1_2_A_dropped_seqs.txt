@@ -1,0 +1,13 @@
+Sequence Id	Filter Name	Reason for Filtering
+HC9DO0P01BDMVE	Primer trimmer	Reverse primer didn't hit, best partial match is with primer 1 with a distance of 12
+HC9DO0P01AS137	Primer trimmer	Reverse primer didn't hit, best partial match is with primer 1 with a distance of 11
+HC9DO0P01AQAFC	Primer trimmer	Reverse primer didn't hit, best partial match is with primer 1 with a distance of 11
+HC9DO0P01AXX8Y	Primer trimmer	Reverse primer didn't hit, best partial match is with primer 1 with a distance of 12
+HC9DO0P01ASD9M	Primer trimmer	Reverse primer didn't hit, best partial match is with primer 1 with a distance of 5
+HC9DO0P01A9KIK	Primer trimmer	Reverse primer didn't hit, best partial match is with primer 1 with a distance of 11
+HC9DO0P01AWMAA	Primer trimmer	Reverse primer didn't hit, best partial match is with primer 1 with a distance of 11
+HC9DO0P01ANK8R	Primer trimmer	Reverse primer didn't hit, best partial match is with primer 1 with a distance of 11
+HC9DO0P01BERFJ	Primer trimmer	Reverse primer didn't hit
+HC9DO0P01AWVU0	Primer trimmer	Reverse primer didn't hit, best partial match is with primer 1 with a distance of 11
+HC9DO0P01APP3V	Primer trimmer	Reverse primer didn't hit, best partial match is with primer 1 with a distance of 12
+HC9DO0P01BETCJ	Primer trimmer	Reverse primer didn't hit, best partial match is with primer 1 with a distance of 12

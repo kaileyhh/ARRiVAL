@@ -1,0 +1,8 @@
+Sequence Id	Filter Name	Reason for Filtering
+HC9DO0P01AMAJT	Primer trimmer	Reverse primer didn't hit, best partial match is with primer 1 with a distance of 1
+HC9DO0P01BCB2E	Primer trimmer	Reverse primer didn't hit, best partial match is with primer 1 with a distance of 11
+HC9DO0P01A66SJ	Primer trimmer	Reverse primer didn't hit, best partial match is with primer 1 with a distance of 11
+HC9DO0P01AV0ET	Primer trimmer	Reverse primer didn't hit, best partial match is with primer 1 with a distance of 11
+HC9DO0P01BFMMZ	Primer trimmer	Reverse primer didn't hit, best partial match is with primer 1 with a distance of 12
+HC9DO0P01A4KI2	Primer trimmer	Reverse primer didn't hit, best partial match is with primer 1 with a distance of 12
+HC9DO0P01AQIQE	LessThan 350 sequence length filter	length [355] is greater than maximum length [350]
