@@ -1,0 +1,16 @@
+taxid	lineage	name	rank	ERR4775526.fastq
+0	null	Root	rootrank	91.768
+1	Root;rootrank;Bacteria;domain;	Bacteria	domain	67.405
+2259	Root;rootrank;Bacteria;domain;Bacillota;phylum;	Bacillota	phylum	0.282
+2375	Root;rootrank;Bacteria;domain;Bacillota;phylum;Clostridia;class;	Clostridia	class	0.182
+2376	Root;rootrank;Bacteria;domain;Bacillota;phylum;Clostridia;class;Eubacteriales;order;	Eubacteriales	order	0.182
+2445	Root;rootrank;Bacteria;domain;Bacillota;phylum;Clostridia;class;Eubacteriales;order;Lachnospiraceae;family;	Lachnospiraceae	family	0.182
+2626	Root;rootrank;Bacteria;domain;Bacillota;phylum;Clostridia;class;Eubacteriales;order;Lachnospiraceae;family;Blautia;genus;	Blautia	genus	0.182
+2722	Root;rootrank;Bacteria;domain;Bacillota;phylum;Negativicutes;class;	Negativicutes	class	0.100
+2723	Root;rootrank;Bacteria;domain;Bacillota;phylum;Negativicutes;class;Selenomonadales;order;	Selenomonadales	order	0.100
+3994	Root;rootrank;Bacteria;domain;Bacillota;phylum;Negativicutes;class;Selenomonadales;order;Sporomusaceae;family;	Sporomusaceae	family	0.100
+2725	Root;rootrank;Bacteria;domain;Bacillota;phylum;Negativicutes;class;Selenomonadales;order;Sporomusaceae;family;Anaerospora;genus;	Anaerospora	genus	0.100
+-2	Root;rootrank;Bacteria;domain;unclassified_Bacteria;;	unclassified_Bacteria		67.123
+-1	Root;rootrank;unclassified_Root;;	unclassified_Root		23.529
+1966	Root;rootrank;Archaea;domain;	Archaea	domain	0.833
+-1967	Root;rootrank;Archaea;domain;unclassified_Archaea;;	unclassified_Archaea		0.833
