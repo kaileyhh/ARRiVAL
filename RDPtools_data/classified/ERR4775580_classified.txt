@@ -1,0 +1,144 @@
+ERR4775580.1		Bacteria	domain	0.93	Bacteroidota	phylum	0.14	Bacteroidia	class	0.05	Bacteroidales	order	0.05	Salinivirgaceae	family	0.04	Salinivirga	genus	0.04
+ERR4775580.2		Bacteria	domain	0.81	Balneolota	phylum	0.07	Balneolia	class	0.07	Balneolales	order	0.07	Cyclonatronaceae	family	0.07	Cyclonatronum	genus	0.07
+ERR4775580.3		Bacteria	domain	0.87	Thermotogota	phylum	0.03	Thermotogae	class	0.03	Petrotogales	order	0.03	Petrotogaceae	family	0.03	Defluviitoga	genus	0.03
+ERR4775580.4		Bacteria	domain	0.94	Actinomycetota	phylum	0.21	Actinobacteria	class	0.2	Glycomycetales	order	0.02	Glycomycetaceae	family	0.02	Natronoglycomyces	genus	0.02
+ERR4775580.5	-	Bacteria	domain	0.93	Bacteroidota	phylum	0.46	Chitinophagia	class	0.27	Chitinophagales	order	0.27	Chitinophagaceae	family	0.27	Parapseudoflavitalea	genus	0.14
+ERR4775580.6	-	Bacteria	domain	0.94	Bacteroidota	phylum	0.26	Bacteroidia	class	0.1	Bacteroidales	order	0.1	Prevotellaceae	family	0.07	Prevotellamassilia	genus	0.07
+ERR4775580.7		Bacteria	domain	0.88	Chloroflexota	phylum	0.07	Ktedonobacteria	class	0.06	Ktedonobacterales	order	0.06	Dictyobacteraceae	family	0.06	Tengunoibacter	genus	0.06
+ERR4775580.8		Archaea	domain	0.25	Parvarchaeota	phylum	0.15	Candidatus Parvarchaeum	class	0.15	Candidatus Parvarchaeum	order	0.15	Candidatus Parvarchaeum	family	0.15	Candidatus Parvarchaeum	genus	0.15
+ERR4775580.9	-	Bacteria	domain	0.96	Bacteroidota	phylum	0.24	Cytophagia	class	0.13	Cytophagales	order	0.13	Cyclobacteriaceae	family	0.09	Mongoliibacter	genus	0.05
+ERR4775580.10		Bacteria	domain	0.96	Bacillota	phylum	0.36	Bacilli	class	0.1	Caryophanales	order	0.1	Thermoactinomycetaceae	family	0.05	Seinonella	genus	0.02
+ERR4775580.11		Bacteria	domain	0.81	Bacteroidota	phylum	0.26	Chitinophagia	class	0.09	Chitinophagales	order	0.09	Chitinophagaceae	family	0.09	Rurimicrobium	genus	0.05
+ERR4775580.12	-	Bacteria	domain	0.93	Bacteroidota	phylum	0.41	Flavobacteriia	class	0.13	Flavobacteriales	order	0.13	Crocinitomicaceae	family	0.05	Putridiphycobacter	genus	0.04
+ERR4775580.13	-	Bacteria	domain	0.94	Pseudomonadota	phylum	0.21	Gammaproteobacteria	class	0.15	Thiotrichales	order	0.14	Fastidiosibacteraceae	family	0.13	Fangia	genus	0.12
+ERR4775580.14	-	Archaea	domain	0.18	Euryarchaeota	phylum	0.12	Thermoplasmata	class	0.05	Thermoplasmatales	order	0.05	Cuniculiplasmataceae	family	0.04	Cuniculiplasma	genus	0.04
+ERR4775580.15	-	Bacteria	domain	0.68	Chloroflexota	phylum	0.12	Chloroflexia	class	0.11	Kallotenuales	order	0.11	Kallotenuaceae	family	0.11	Kallotenue	genus	0.11
+ERR4775580.16	-	Archaea	domain	0.14	Thermoproteota	phylum	0.03	Thermoprotei	class	0.03	Acidilobales	order	0.03	Caldisphaeraceae	family	0.03	Caldisphaera	genus	0.03
+ERR4775580.17	-	Bacteria	domain	0.91	Bacillota	phylum	0.16	Clostridia	class	0.1	Eubacteriales	order	0.1	Lachnospiraceae	family	0.08	Muricomes	genus	0.04
+ERR4775580.18	-	Bacteria	domain	0.94	Bacteroidota	phylum	0.29	Chitinophagia	class	0.06	Chitinophagales	order	0.06	Chitinophagaceae	family	0.06	Edaphobaculum	genus	0.03
+ERR4775580.19	-	Archaea	domain	0.1	Euryarchaeota	phylum	0.08	Thermoplasmata	class	0.03	Thermoplasmatales	order	0.03	Ferroplasmaceae	family	0.03	Ferroplasma	genus	0.03
+ERR4775580.20		Bacteria	domain	0.84	Bacteroidota	phylum	0.21	Cytophagia	class	0.16	Cytophagales	order	0.16	Spirosomaceae	family	0.11	Persicitalea	genus	0.11
+ERR4775580.21	-	Bacteria	domain	0.82	Bacillota	phylum	0.18	Negativicutes	class	0.09	Selenomonadales	order	0.08	Sporomusaceae	family	0.08	Dendrosporobacter	genus	0.06
+ERR4775580.22		Bacteria	domain	0.94	Bacteroidota	phylum	0.34	Flavobacteriia	class	0.18	Flavobacteriales	order	0.18	Flavobacteriaceae	family	0.14	Aquaticitalea	genus	0.09
+ERR4775580.23		Bacteria	domain	0.94	Cyanobacteriota	phylum	0.15	Cyanophyceae	class	0.13	Nostocales	order	0.06	Nostocaceae	family	0.02	Minunostoc	genus	0.02
+ERR4775580.24	-	Bacteria	domain	0.83	Bacillota	phylum	0.2	Clostridia	class	0.16	Eubacteriales	order	0.16	Lachnospiraceae	family	0.12	Catonella	genus	0.03
+ERR4775580.25		Bacteria	domain	0.92	Bacillota	phylum	0.16	Clostridia	class	0.11	Eubacteriales	order	0.11	Peptococcaceae	family	0.06	Desulfocucumis	genus	0.03
+ERR4775580.26		Bacteria	domain	0.85	Bacillota	phylum	0.38	Clostridia	class	0.35	Eubacteriales	order	0.33	Oscillospiraceae	family	0.15	Tepidibaculum	genus	0.13
+ERR4775580.27		Bacteria	domain	0.95	Pseudomonadota	phylum	0.19	Gammaproteobacteria	class	0.11	Gammaproteobacteria_incertae_sedis	order	0.09	Candidatus Carsonella	family	0.09	Candidatus Carsonella	genus	0.09
+ERR4775580.28	-	Bacteria	domain	0.81	Bacillota	phylum	0.21	Erysipelotrichia	class	0.1	Erysipelotrichales	order	0.1	Coprobacillaceae	family	0.1	Eggerthia	genus	0.07
+ERR4775580.29		Bacteria	domain	0.97	Bacillota	phylum	0.23	Tissierellia	class	0.06	Tissierellales	order	0.06	Tissierellaceae	family	0.06	Sporanaerobacter	genus	0.05
+ERR4775580.30	-	Bacteria	domain	0.8	Acidobacteriota	phylum	0.05	Terriglobia	class	0.04	Terriglobales	order	0.04	Acidobacteriaceae	family	0.04	Bryocella	genus	0.03
+ERR4775580.31	-	Bacteria	domain	0.87	Cyanobacteriota	phylum	0.22	Cyanophyceae	class	0.21	Nostocales	order	0.06	Fortieaceae	family	0.05	Calochaete	genus	0.05
+ERR4775580.32		Archaea	domain	0.17	Pacearchaeota	phylum	0.12	Pacearchaeota Incertae Sedis AR13	class	0.12	Pacearchaeota Incertae Sedis AR13	order	0.12	Pacearchaeota Incertae Sedis AR13	family	0.12	Pacearchaeota Incertae Sedis AR13	genus	0.12
+ERR4775580.33		Archaea	domain	0.22	Euryarchaeota	phylum	0.15	Halobacteria	class	0.08	Halobacteriales	order	0.07	Haloarculaceae	family	0.03	Haloglomus	genus	0.03
+ERR4775580.34		Bacteria	domain	0.85	Verrucomicrobiota	phylum	0.06	Verrucomicrobiia	class	0.04	Verrucomicrobiales	order	0.04	Verrucomicrobiaceae	family	0.04	Phragmitibacter	genus	0.04
+ERR4775580.35		Bacteria	domain	0.94	Cyanobacteriota	phylum	0.22	Cyanophyceae	class	0.22	Chroococcales	order	0.09	Geminocystaceae	family	0.08	Geminocystis	genus	0.08
+ERR4775580.36		Bacteria	domain	0.81	Bacillota	phylum	0.14	Clostridia	class	0.12	Eubacteriales	order	0.09	Symbiobacteriaceae	family	0.08	Caldinitratiruptor	genus	0.08
+ERR4775580.37	-	Bacteria	domain	0.92	Rhodothermota	phylum	0.04	Rhodothermia	class	0.04	Rhodothermales	order	0.04	Rubricoccaceae	family	0.03	Rubricoccus	genus	0.03
+ERR4775580.38		Bacteria	domain	0.84	Actinomycetota	phylum	0.11	Actinobacteria	class	0.08	Micrococcales	order	0.05	Microbacteriaceae	family	0.03	Arenivirga	genus	0.02
+ERR4775580.39	-	Bacteria	domain	0.89	Bacteroidota	phylum	0.2	Flavobacteriia	class	0.13	Flavobacteriales	order	0.13	Weeksellaceae	family	0.1	Cruoricaptor	genus	0.1
+ERR4775580.40	-	Bacteria	domain	0.94	Bacillota	phylum	0.25	Tissierellia	class	0.04	Tissierellales	order	0.04	Tissierellaceae	family	0.04	Schnuerera	genus	0.03
+ERR4775580.41	-	Bacteria	domain	0.93	Bacteroidota	phylum	0.27	Flavobacteriia	class	0.15	Flavobacteriales	order	0.15	Weeksellaceae	family	0.05	Ornithobacterium	genus	0.05
+ERR4775580.42	-	Eukaryota	domain	0.11	Plantae	phylum	0.11	Liliopsida	class	0.11	Poales	order	0.11	Poaceae	family	0.11	Zea	genus	0.11
+ERR4775580.43	-	Bacteria	domain	0.86	Planctomycetota	phylum	0.13	Planctomycetia	class	0.09	Pirellulales	order	0.08	Pirellulaceae	family	0.07	Crateriforma	genus	0.06
+ERR4775580.44		Bacteria	domain	0.93	Chlamydiota	phylum	0.07	Chlamydiia	class	0.07	Chlamydiales	order	0.07	Criblamydiaceae	family	0.07	Estrella	genus	0.07
+ERR4775580.45	-	Archaea	domain	0.34	Euryarchaeota	phylum	0.29	Methanococci	class	0.12	Methanococcales	order	0.12	Methanococcaceae	family	0.12	Methanofervidicoccus	genus	0.12
+ERR4775580.46		Bacteria	domain	0.9	Cyanobacteriota	phylum	0.1	Cyanophyceae	class	0.09	Synechococcales	order	0.01	Synechococcaceae	family	0.01	Gibliniella	genus	0.01
+ERR4775580.47	-	Bacteria	domain	0.98	Mycoplasmatota	phylum	0.04	Mollicutes	class	0.04	Acholeplasmatales	order	0.04	Acholeplasmataceae	family	0.04	Mariniplasma	genus	0.04
+ERR4775580.48	-	Archaea	domain	0.13	Euryarchaeota	phylum	0.13	Thermoplasmata	class	0.08	Thermoplasmatales	order	0.08	Thermoplasmatales_incertae_sedis	family	0.08	Thermogymnomonas	genus	0.08
+ERR4775580.49		Bacteria	domain	0.93	Bacteroidota	phylum	0.27	Bacteroidia	class	0.1	Bacteroidales	order	0.1	Porphyromonadaceae	family	0.05	Falsiporphyromonas	genus	0.05
+ERR4775580.50		Bacteria	domain	0.9	Pseudomonadota	phylum	0.27	Gammaproteobacteria	class	0.11	Pasteurellales	order	0.04	Pasteurellaceae	family	0.04	Seminibacterium	genus	0.04
+ERR4775580.51		Bacteria	domain	0.9	Deferribacterota	phylum	0.08	Deferribacteres	class	0.08	Deferribacterales	order	0.08	Deferribacteraceae	family	0.08	Mucispirillum	genus	0.08
+ERR4775580.52	-	Bacteria	domain	0.96	Cyanobacteriota	phylum	0.08	Cyanophyceae	class	0.08	Nostocales	order	0.07	Fortieaceae	family	0.04	Calochaete	genus	0.04
+ERR4775580.53		Bacteria	domain	0.97	Pseudomonadota	phylum	0.29	Gammaproteobacteria	class	0.2	Gammaproteobacteria_incertae_sedis	order	0.13	Candidatus Carsonella	family	0.13	Candidatus Carsonella	genus	0.13
+ERR4775580.54		Bacteria	domain	0.96	Bacteroidota	phylum	0.34	Flavobacteriia	class	0.04	Flavobacteriales	order	0.04	Flavobacteriaceae	family	0.04	Paucihalobacter	genus	0.01
+ERR4775580.55		Bacteria	domain	0.95	Bacillota	phylum	0.24	Erysipelotrichia	class	0.04	Erysipelotrichales	order	0.04	Erysipelotrichaceae	family	0.04	Bulleidia	genus	0.03
+ERR4775580.56		Bacteria	domain	0.92	Verrucomicrobiota	phylum	0.08	Verrucomicrobiia	class	0.08	Verrucomicrobiales	order	0.08	Verrucomicrobiaceae	family	0.08	Roseimicrobium	genus	0.07
+ERR4775580.57	-	Bacteria	domain	0.89	Bacillota	phylum	0.28	Clostridia	class	0.2	Halanaerobiales	order	0.06	Halanaerobiaceae	family	0.06	Halarsenatibacter	genus	0.06
+ERR4775580.58	-	Bacteria	domain	0.87	Pseudomonadota	phylum	0.18	Alphaproteobacteria	class	0.04	Rhodobacterales	order	0.01	Paracoccaceae	family	0.01	Fuscovulum	genus	0.01
+ERR4775580.59	-	Bacteria	domain	0.79	Bacteroidota	phylum	0.21	Cytophagia	class	0.11	Cytophagales	order	0.11	Flammeovirgaceae	family	0.09	Imperialibacter	genus	0.05
+ERR4775580.60	-	Bacteria	domain	0.96	Chloroflexota	phylum	0.12	Ktedonobacteria	class	0.12	Ktedonobacterales	order	0.12	Dictyobacteraceae	family	0.12	Tengunoibacter	genus	0.12
+ERR4775580.61	-	Archaea	domain	0.09	Euryarchaeota	phylum	0.06	Halobacteria	class	0.06	Halobacteriales	order	0.05	Halobacteriaceae	family	0.04	Halocatena	genus	0.03
+ERR4775580.62		Archaea	domain	0.14	Aenigmarchaeota	phylum	0.06	Candidatus Aenigmarchaeum	class	0.06	Candidatus Aenigmarchaeum	order	0.06	Candidatus Aenigmarchaeum	family	0.06	Candidatus Aenigmarchaeum	genus	0.06
+ERR4775580.63		Bacteria	domain	0.83	Balneolota	phylum	0.05	Balneolia	class	0.05	Balneolales	order	0.05	Cyclonatronaceae	family	0.05	Natronogracilivirga	genus	0.05
+ERR4775580.64	-	Bacteria	domain	0.82	Cyanobacteriota	phylum	0.17	Chloroplast	class	0.08	Chloroplast	order	0.08	Chloroplast	family	0.08	Bangiophyceae	genus	0.08
+ERR4775580.65	-	Bacteria	domain	0.82	Bacillota	phylum	0.23	Clostridia	class	0.07	Eubacteriales	order	0.07	Peptococcaceae	family	0.03	Desulfohalotomaculum	genus	0.03
+ERR4775580.66	-	Bacteria	domain	0.88	Bacteroidota	phylum	0.27	Chitinophagia	class	0.16	Chitinophagales	order	0.16	Chitinophagaceae	family	0.15	Rurimicrobium	genus	0.13
+ERR4775580.67		Bacteria	domain	0.86	Bacteroidota	phylum	0.13	Flavobacteriia	class	0.03	Flavobacteriales	order	0.03	Flavobacteriaceae	family	0.03	Spongitalea	genus	0.01
+ERR4775580.68	-	Bacteria	domain	0.95	Pseudomonadota	phylum	0.25	Alphaproteobacteria	class	0.1	Sphingomonadales	order	0.05	Sphingomonadaceae	family	0.05	Glacieibacterium	genus	0.05
+ERR4775580.69	-	Bacteria	domain	0.75	Pseudomonadota	phylum	0.23	Alphaproteobacteria	class	0.09	Emcibacterales	order	0.01	Emcibacteraceae	family	0.01	Emcibacter	genus	0.01
+ERR4775580.70	-	Bacteria	domain	0.89	Bacillota	phylum	0.17	Bacilli	class	0.05	Caryophanales	order	0.05	Bacillaceae	family	0.05	Aidingibacillus	genus	0.04
+ERR4775580.71		Bacteria	domain	0.8	Spirochaetota	phylum	0.05	Spirochaetia	class	0.05	Spirochaetales	order	0.05	Breznakiellaceae	family	0.05	Breznakiella	genus	0.05
+ERR4775580.72	-	Bacteria	domain	0.87	Actinomycetota	phylum	0.32	Actinobacteria	class	0.3	Bifidobacteriales	order	0.17	Bifidobacteriaceae	family	0.17	Neoscardovia	genus	0.17
+ERR4775580.73		Bacteria	domain	0.98	Bacteroidota	phylum	0.16	Cytophagia	class	0.11	Cytophagales	order	0.11	Cytophagaceae	family	0.08	Rhabdobacter	genus	0.08
+ERR4775580.74		Bacteria	domain	0.97	Pseudomonadota	phylum	0.18	Betaproteobacteria	class	0.05	Ferrovales	order	0.05	Ferrovaceae	family	0.05	Ferrovum	genus	0.05
+ERR4775580.75	-	Bacteria	domain	0.93	Bacillota	phylum	0.16	Bacilli	class	0.08	Caryophanales	order	0.08	Bacillaceae	family	0.07	Thalassorhabdus	genus	0.06
+ERR4775580.76		Bacteria	domain	0.86	Bacteroidota	phylum	0.19	Chitinophagia	class	0.01	Chitinophagales	order	0.01	Chitinophagaceae	family	0.01	Heliimonas	genus	0.01
+ERR4775580.77		Archaea	domain	0.11	Euryarchaeota	phylum	0.1	Thermoplasmata	class	0.07	Thermoplasmatales	order	0.07	Ferroplasmaceae	family	0.07	Ferroplasma	genus	0.07
+ERR4775580.78	-	Bacteria	domain	0.96	Pseudomonadota	phylum	0.27	Gammaproteobacteria	class	0.15	Gammaproteobacteria_incertae_sedis	order	0.11	Candidatus Carsonella	family	0.1	Candidatus Carsonella	genus	0.1
+ERR4775580.79		Archaea	domain	0.21	Nitrososphaerota	phylum	0.11	Nitrososphaeria	class	0.11	Nitrosopumilales	order	0.11	Nitrosopumilaceae	family	0.11	Nitrosarchaeum	genus	0.08
+ERR4775580.80		Bacteria	domain	0.91	Chloroflexota	phylum	0.12	Caldilineae	class	0.05	Caldilineales	order	0.05	Caldilineaceae	family	0.05	Litorilinea	genus	0.05
+ERR4775580.81		Bacteria	domain	0.84	Planctomycetota	phylum	0.04	Planctomycetia	class	0.04	Pirellulales	order	0.02	Thermoguttaceae	family	0.01	Thermostilla	genus	0.0
+ERR4775580.82	-	Bacteria	domain	0.97	Bacteroidota	phylum	0.22	Flavobacteriia	class	0.1	Flavobacteriales	order	0.1	Flavobacteriaceae	family	0.06	Spongiivirga	genus	0.05
+ERR4775580.83		Bacteria	domain	0.98	Cyanobacteriota	phylum	0.13	Cyanophyceae	class	0.13	Oculatellales	order	0.07	Oculatellaceae	family	0.07	Calenema	genus	0.03
+ERR4775580.84		Bacteria	domain	0.85	Cyanobacteriota	phylum	0.12	Cyanophyceae	class	0.12	Leptolyngbyales	order	0.09	Leptolyngbyaceae	family	0.09	Kovacikia	genus	0.06
+ERR4775580.85	-	Bacteria	domain	0.92	Bacteroidota	phylum	0.31	Flavobacteriia	class	0.22	Flavobacteriales	order	0.22	Flavobacteriaceae	family	0.2	Marinitalea	genus	0.04
+ERR4775580.86		Archaea	domain	0.18	Euryarchaeota	phylum	0.11	Thermoplasmata	class	0.04	Methanomassiliicoccales	order	0.02	Methanomassiliicoccaceae	family	0.02	Methanomassiliicoccus	genus	0.02
+ERR4775580.87		Bacteria	domain	0.86	Chloroflexota	phylum	0.1	Thermoflexia	class	0.02	Thermoflexales	order	0.02	Thermoflexaceae	family	0.02	Thermoflexus	genus	0.02
+ERR4775580.88		Bacteria	domain	0.92	Bacillota	phylum	0.24	Clostridia	class	0.19	Eubacteriales	order	0.17	Oscillospiraceae	family	0.06	Acetanaerobacterium	genus	0.05
+ERR4775580.89		Archaea	domain	0.12	Euryarchaeota	phylum	0.1	Halobacteria	class	0.06	Halobacteriales	order	0.05	Halobacteriaceae	family	0.05	Salinirubellus	genus	0.03
+ERR4775580.90	-	Bacteria	domain	0.83	Bacillota	phylum	0.12	Clostridia	class	0.09	Eubacteriales	order	0.09	Oscillospiraceae	family	0.08	Papillibacter	genus	0.05
+ERR4775580.91		Bacteria	domain	0.83	Pseudomonadota	phylum	0.2	Alphaproteobacteria	class	0.11	Rhodospirillales	order	0.05	Acetobacteraceae	family	0.04	Rubritepida	genus	0.03
+ERR4775580.92	-	Bacteria	domain	0.95	Bacillota	phylum	0.24	Clostridia	class	0.17	Eubacteriales	order	0.17	Lachnospiraceae	family	0.11	Murimonas	genus	0.01
+ERR4775580.93		Bacteria	domain	0.72	Bacteroidota	phylum	0.19	Sphingobacteriia	class	0.03	Sphingobacteriales	order	0.03	Sphingobacteriaceae	family	0.03	Albibacterium	genus	0.03
+ERR4775580.94		Bacteria	domain	0.91	Cyanobacteriota	phylum	0.15	Chloroplast	class	0.06	Chloroplast	order	0.06	Chloroplast	family	0.06	Chlorarachniophyceae	genus	0.06
+ERR4775580.95	-	Archaea	domain	0.08	Woesearchaeota	phylum	0.05	Woesearchaeota Incertae Sedis AR18	class	0.05	Woesearchaeota Incertae Sedis AR18	order	0.05	Woesearchaeota Incertae Sedis AR18	family	0.05	Woesearchaeota Incertae Sedis AR18	genus	0.05
+ERR4775580.96	-	Bacteria	domain	0.86	Synergistota	phylum	0.05	Synergistia	class	0.05	Synergistales	order	0.05	Synergistaceae	family	0.05	Fretibacterium	genus	0.04
+ERR4775580.97		Bacteria	domain	0.92	Cyanobacteriota	phylum	0.16	Cyanophyceae	class	0.16	Oculatellales	order	0.09	Oculatellaceae	family	0.09	Albertania	genus	0.07
+ERR4775580.98		Bacteria	domain	0.76	Bacteroidota	phylum	0.15	Chitinophagia	class	0.06	Chitinophagales	order	0.06	Chitinophagaceae	family	0.06	Nemorincola	genus	0.04
+ERR4775580.99	-	Archaea	domain	0.07	Woesearchaeota	phylum	0.02	Woesearchaeota Incertae Sedis AR20	class	0.02	Woesearchaeota Incertae Sedis AR20	order	0.02	Woesearchaeota Incertae Sedis AR20	family	0.02	Woesearchaeota Incertae Sedis AR20	genus	0.02
+ERR4775580.100	-	Bacteria	domain	0.93	Pseudomonadota	phylum	0.26	Betaproteobacteria	class	0.1	Burkholderiales	order	0.1	Burkholderiaceae	family	0.08	Quisquiliibacterium	genus	0.07
+ERR4775580.101	-	Bacteria	domain	0.84	Verrucomicrobiota	phylum	0.06	Verrucomicrobiia	class	0.06	Verrucomicrobiales	order	0.06	Verrucomicrobiaceae	family	0.06	Oceaniferula	genus	0.06
+ERR4775580.102		Bacteria	domain	0.77	Chlorobiota	phylum	0.07	Ignavibacteria	class	0.07	Ignavibacteriales	order	0.07	Ignavibacteriaceae	family	0.07	Melioribacter	genus	0.07
+ERR4775580.103	-	Bacteria	domain	0.88	Bacteroidota	phylum	0.22	Chitinophagia	class	0.1	Chitinophagales	order	0.1	Chitinophagaceae	family	0.1	Paracnuella	genus	0.06
+ERR4775580.104	-	Bacteria	domain	0.85	Candidatus Calescamantes	phylum	0.12	Candidatus Calescibacterium	class	0.12	Candidatus Calescibacterium	order	0.12	Candidatus Calescibacterium	family	0.12	Candidatus Calescibacterium	genus	0.12
+ERR4775580.105		Bacteria	domain	0.78	Fusobacteriota	phylum	0.06	Fusobacteriia	class	0.06	Fusobacteriales	order	0.06	Leptotrichiaceae	family	0.04	Pseudostreptobacillus	genus	0.03
+ERR4775580.106	-	Bacteria	domain	0.95	Thermotogota	phylum	0.07	Thermotogae	class	0.07	Petrotogales	order	0.07	Petrotogaceae	family	0.07	Tepiditoga	genus	0.06
+ERR4775580.107	-	Bacteria	domain	0.86	Bacteroidota	phylum	0.2	Cytophagia	class	0.1	Cytophagales	order	0.1	Spirosomaceae	family	0.08	Leadbetterella	genus	0.06
+ERR4775580.108	-	Bacteria	domain	0.92	Thermotogota	phylum	0.03	Thermotogae	class	0.03	Petrotogales	order	0.03	Petrotogaceae	family	0.03	Tepiditoga	genus	0.03
+ERR4775580.109	-	Bacteria	domain	0.88	Planctomycetota	phylum	0.15	Planctomycetia	class	0.14	Isosphaerales	order	0.09	Isosphaeraceae	family	0.09	Tundrisphaera	genus	0.09
+ERR4775580.110	-	Bacteria	domain	0.62	Planctomycetota	phylum	0.09	Planctomycetia	class	0.08	Planctomycetales	order	0.03	Planctomycetaceae	family	0.03	Planctomicrobium	genus	0.03
+ERR4775580.111	-	Bacteria	domain	0.94	Gemmatimonadota	phylum	0.07	Gemmatimonadia	class	0.03	Gemmatimonadales	order	0.03	Gemmatimonadaceae	family	0.03	Roseisolibacter	genus	0.03
+ERR4775580.112	-	Bacteria	domain	0.9	Pseudomonadota	phylum	0.28	Gammaproteobacteria	class	0.09	Oceanospirillales	order	0.03	Oceanospirillaceae	family	0.03	Parathalassolituus	genus	0.03
+ERR4775580.113	-	Bacteria	domain	0.87	Pseudomonadota	phylum	0.16	Betaproteobacteria	class	0.04	Burkholderiales	order	0.04	Oxalobacteraceae	family	0.02	Actimicrobium	genus	0.02
+ERR4775580.114		Archaea	domain	0.14	Thermoproteota	phylum	0.04	Thermoprotei	class	0.04	Sulfolobales	order	0.04	Sulfolobaceae	family	0.04	Sulfodiicoccus	genus	0.04
+ERR4775580.115	-	Bacteria	domain	0.98	Bacteroidota	phylum	0.36	Bacteroidia	class	0.3	Bacteroidales	order	0.3	Rikenellaceae	family	0.13	Mucinivorans	genus	0.12
+ERR4775580.116	-	Bacteria	domain	0.93	Bacteroidota	phylum	0.21	Bacteroidia	class	0.02	Bacteroidales	order	0.02	Marinilabiliaceae	family	0.01	Anaerophaga	genus	0.01
+ERR4775580.117	-	Archaea	domain	0.15	Euryarchaeota	phylum	0.12	Halobacteria	class	0.11	Halobacteriales	order	0.1	Halobacteriaceae	family	0.08	Salinirubrum	genus	0.02
+ERR4775580.118		Bacteria	domain	0.94	Pseudomonadota	phylum	0.28	Alphaproteobacteria	class	0.11	Hyphomicrobiales	order	0.03	Hyphomicrobiaceae	family	0.0	Dichotomicrobium	genus	0.0
+ERR4775580.119	-	Bacteria	domain	0.89	Pseudomonadota	phylum	0.34	Alphaproteobacteria	class	0.13	Rhodobacterales	order	0.05	Paracoccaceae	family	0.04	Abyssibius	genus	0.03
+ERR4775580.120	-	Bacteria	domain	0.9	Synergistota	phylum	0.13	Synergistia	class	0.13	Synergistales	order	0.13	Synergistaceae	family	0.13	Aminivibrio	genus	0.12
+ERR4775580.121		Bacteria	domain	0.86	Pseudomonadota	phylum	0.17	Gammaproteobacteria	class	0.06	Gammaproteobacteria_incertae_sedis	order	0.04	Candidatus Carsonella	family	0.04	Candidatus Carsonella	genus	0.04
+ERR4775580.122		Bacteria	domain	0.9	Fusobacteriota	phylum	0.06	Fusobacteriia	class	0.06	Fusobacteriales	order	0.06	Leptotrichiaceae	family	0.05	Pseudostreptobacillus	genus	0.04
+ERR4775580.123		Bacteria	domain	0.8	Pseudomonadota	phylum	0.19	Alphaproteobacteria	class	0.07	Rhodospirillales	order	0.04	Rhodospirillaceae	family	0.04	Aerophototrophica	genus	0.04
+ERR4775580.124		Bacteria	domain	0.98	Bacteroidota	phylum	0.3	Flavobacteriia	class	0.16	Flavobacteriales	order	0.16	Flavobacteriaceae	family	0.16	Paucihalobacter	genus	0.05
+ERR4775580.125		Bacteria	domain	0.94	Bacillota	phylum	0.2	Clostridia	class	0.09	Eubacteriales	order	0.08	Christensenellaceae	family	0.03	Guopingia	genus	0.02
+ERR4775580.126	-	Bacteria	domain	0.87	Pseudomonadota	phylum	0.26	Gammaproteobacteria	class	0.1	Thiotrichales	order	0.05	Francisellaceae	family	0.05	Pseudofrancisella	genus	0.05
+ERR4775580.127		Bacteria	domain	0.77	Actinomycetota	phylum	0.16	Actinobacteria	class	0.1	Actinomycetales	order	0.07	Actinomycetaceae	family	0.07	Peptidiphaga	genus	0.07
+ERR4775580.128	-	Bacteria	domain	0.97	Cyanobacteriota	phylum	0.23	Cyanophyceae	class	0.23	Oscillatoriales	order	0.18	Microcoleaceae	family	0.14	Ammassolinea	genus	0.14
+ERR4775580.129		Bacteria	domain	0.86	Cyanobacteriota	phylum	0.17	Cyanophyceae	class	0.17	Nostocales	order	0.09	Heteroscytonemataceae	family	0.04	Heteroscytonema	genus	0.04
+ERR4775580.130		Bacteria	domain	0.95	Bacteroidota	phylum	0.17	Flavobacteriia	class	0.12	Flavobacteriales	order	0.12	Weeksellaceae	family	0.04	Frigoriflavimonas	genus	0.03
+ERR4775580.131		Bacteria	domain	0.88	Bacteroidota	phylum	0.17	Flavobacteriia	class	0.09	Flavobacteriales	order	0.09	Flavobacteriaceae	family	0.08	Ascidiaceibacter	genus	0.07
+ERR4775580.132	-	Bacteria	domain	0.81	Spirochaetota	phylum	0.05	Spirochaetia	class	0.05	Spirochaetales	order	0.05	Treponemataceae	family	0.03	Brucepastera	genus	0.03
+ERR4775580.133		Bacteria	domain	0.94	Pseudomonadota	phylum	0.19	Gammaproteobacteria	class	0.13	Methylococcales	order	0.01	Methylococcaceae	family	0.01	Methyloglobulus	genus	0.0
+ERR4775580.134	-	Archaea	domain	0.21	Woesearchaeota	phylum	0.18	Woesearchaeota Incertae Sedis AR17	class	0.11	Woesearchaeota Incertae Sedis AR17	order	0.11	Woesearchaeota Incertae Sedis AR17	family	0.11	Woesearchaeota Incertae Sedis AR17	genus	0.11
+ERR4775580.135	-	Bacteria	domain	0.84	Bacteroidota	phylum	0.14	Cytophagia	class	0.09	Cytophagales	order	0.09	Spirosomaceae	family	0.03	Ravibacter	genus	0.03
+ERR4775580.136		Bacteria	domain	0.89	Acidobacteriota	phylum	0.06	Blastocatellia	class	0.06	Blastocatellales	order	0.06	Blastocatellaceae	family	0.05	Blastocatella	genus	0.05
+ERR4775580.137	-	Bacteria	domain	0.71	Chloroflexota	phylum	0.18	Caldilineae	class	0.08	Caldilineales	order	0.08	Caldilineaceae	family	0.08	Litorilinea	genus	0.08
+ERR4775580.138		Bacteria	domain	0.92	Bacteroidota	phylum	0.17	Bacteroidia	class	0.12	Bacteroidales	order	0.12	Odoribacteraceae	family	0.07	Gabonibacter	genus	0.07
+ERR4775580.139		Bacteria	domain	0.86	Cyanobacteriota	phylum	0.11	Cyanophyceae	class	0.11	Oscillatoriales	order	0.04	Microcoleaceae	family	0.03	Microcoleusiopsis	genus	0.03
+ERR4775580.140	-	Bacteria	domain	0.92	Pseudomonadota	phylum	0.25	Gammaproteobacteria	class	0.13	Gammaproteobacteria_incertae_sedis	order	0.06	Candidatus Carsonella	family	0.06	Candidatus Carsonella	genus	0.06
+ERR4775580.141		Bacteria	domain	0.79	Planctomycetota	phylum	0.09	Planctomycetia	class	0.08	Pirellulales	order	0.08	Pirellulaceae	family	0.07	Mariniblastus	genus	0.07
+ERR4775580.142		Bacteria	domain	0.94	Bacteroidota	phylum	0.16	Chitinophagia	class	0.05	Chitinophagales	order	0.05	Chitinophagaceae	family	0.05	Rurimicrobium	genus	0.05
+ERR4775580.143	-	Bacteria	domain	0.97	Actinomycetota	phylum	0.3	Actinobacteria	class	0.29	Mycobacteriales	order	0.14	Nocardiaceae	family	0.14	Smaragdicoccus	genus	0.14
+ERR4775580.144	-	Bacteria	domain	0.97	Bacteroidota	phylum	
