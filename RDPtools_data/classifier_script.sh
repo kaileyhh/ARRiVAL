@@ -7,12 +7,13 @@ ClassifierDir=~/rdp_classifier_2.14/dist
 OutputDir=~/classified/
 
 cd "data" || exit
-for file in *.fastq; do
+for file in *.fastq; 
+do
     output=${file%.*}"_classified"
     echo 'classifying '{$output}
     # $output +=  "_classified"
     # Classifiy trimmed sequences. Trimmed sequences are in sub-folder trimmed_seqs
     # java -Xmx2g -jar $ClassifierDir/classifier.jar classify --gene 16srrna -c 0.5 --format fixrank --hier_outfile hier_file.txt --outputFile $output.txt $file
-    java -Xmx2g -jar $ClassifierDir/classifier.jar classify --gene 16srrna -c 0.5 --format fixrank --hier_outfile hier_file.txt --outputFile $OutputDir/$output.txt $file
+    timeout 60 java -Xmx2g -jar $ClassifierDir/classifier.jar classify --gene 16srrna -c 0.5 --format fixrank --hier_outfile hier_file.txt --outputFile $OutputDir/$output.txt $file
     echo 'done'
 done
