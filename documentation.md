@@ -10,3 +10,7 @@
 * launch docker:
     * `docker start rdp_tools`
     * `docker attach rdp_tools`
+
+### Using RDP to BLAST data
+* to unzip all `.gz` files, run `gunzip *.gz`
+* run `./classifier_script.sh` within the Docker environment
