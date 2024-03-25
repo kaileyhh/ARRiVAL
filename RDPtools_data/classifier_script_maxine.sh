@@ -6,7 +6,7 @@ RDPToolsDir=~/Desktop/courses-s24/microbiome-networks # Path to RDPTools on my l
 ClassifierDir=~/rdp_classifier_2.14/dist
 OutputDir=~/classified/
 
-cd "data" || exit
+cd "data/ibs/unzipped" || exit
 for file in *.fastq; 
 do
     output=${file%.*}"_classified"
