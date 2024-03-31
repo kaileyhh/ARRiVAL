@@ -1,0 +1,149 @@
+206723_2_2181520		Bacteria	domain	1.0	Bacillota	phylum	1.0	Clostridia	class	1.0	Eubacteriales	order	1.0	Clostridiaceae 1	family	1.0	Clostridium sensu stricto	genus	0.95
+206723_2_2181521		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181522		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	0.99	Escherichia/Shigella	genus	0.53
+206723_2_2181523		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181524		Bacteria	domain	1.0	Bacillota	phylum	1.0	Clostridia	class	1.0	Eubacteriales	order	1.0	Lachnospiraceae	family	1.0	Dorea	genus	0.66
+206723_2_2181525		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181526		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.95
+206723_2_2181527		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181528		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181529		Bacteria	domain	1.0	Bacillota	phylum	1.0	Clostridia	class	1.0	Eubacteriales	order	1.0	Clostridiaceae 1	family	1.0	Clostridium sensu stricto	genus	0.95
+206723_2_2181530		Bacteria	domain	1.0	Bacillota	phylum	1.0	Clostridia	class	1.0	Eubacteriales	order	1.0	Clostridiaceae 1	family	1.0	Clostridium sensu stricto	genus	0.95
+206723_2_2181531		Bacteria	domain	1.0	Bacillota	phylum	1.0	Clostridia	class	1.0	Eubacteriales	order	1.0	Clostridiaceae 1	family	1.0	Clostridium sensu stricto	genus	0.95
+206723_2_2181532		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181533		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Pseudomonadales	order	1.0	Pseudomonadaceae	family	1.0	Pseudomonas	genus	0.97
+206723_2_2181534		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181535		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181536		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181537		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.95
+206723_2_2181538		Bacteria	domain	1.0	Bacteroidota	phylum	1.0	Bacteroidia	class	1.0	Bacteroidales	order	1.0	Bacteroidaceae	family	1.0	Bacteroides	genus	1.0
+206723_2_2181539		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Pseudomonadales	order	1.0	Pseudomonadaceae	family	1.0	Pseudomonas	genus	0.97
+206723_2_2181540		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181541		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181542		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181543		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.88
+206723_2_2181544		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181545		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	0.97	Enterobacteriaceae	family	0.97	Escherichia/Shigella	genus	0.88
+206723_2_2181546		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181547		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.92
+206723_2_2181548		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.92
+206723_2_2181549		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.95
+206723_2_2181550		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.95
+206723_2_2181551		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181552		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181553		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181554		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181555		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181556		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181557		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	0.98	Escherichia/Shigella	genus	0.91
+206723_2_2181558		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	0.98	Escherichia/Shigella	genus	0.91
+206723_2_2181559		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.92
+206723_2_2181560		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.92
+206723_2_2181561		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181562		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181563		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181564		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181565		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181566		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	0.94	Escherichia/Shigella	genus	0.9
+206723_2_2181567		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	0.94	Escherichia/Shigella	genus	0.9
+206723_2_2181568		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.85
+206723_2_2181569		Bacteria	domain	1.0	Bacillota	phylum	1.0	Erysipelotrichia	class	1.0	Erysipelotrichales	order	1.0	Turicibacteraceae	family	1.0	Turicibacter	genus	1.0
+206723_2_2181570		Bacteria	domain	1.0	Bacillota	phylum	1.0	Erysipelotrichia	class	1.0	Erysipelotrichales	order	1.0	Turicibacteraceae	family	1.0	Turicibacter	genus	1.0
+206723_2_2181571		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Pseudomonadales	order	1.0	Pseudomonadaceae	family	1.0	Pseudomonas	genus	1.0
+206723_2_2181574		Bacteria	domain	1.0	Bacillota	phylum	1.0	Clostridia	class	1.0	Eubacteriales	order	1.0	Clostridiaceae 1	family	1.0	Clostridium sensu stricto	genus	0.95
+206723_2_2181575		Bacteria	domain	1.0	Bacillota	phylum	1.0	Clostridia	class	1.0	Eubacteriales	order	1.0	Clostridiaceae 1	family	1.0	Clostridium sensu stricto	genus	0.95
+206723_2_2181576		Bacteria	domain	1.0	Bacillota	phylum	1.0	Clostridia	class	1.0	Eubacteriales	order	1.0	Clostridiaceae 1	family	1.0	Clostridium sensu stricto	genus	0.95
+206723_2_2181578		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Pseudomonadales	order	1.0	Pseudomonadaceae	family	1.0	Pseudomonas	genus	1.0
+206723_2_2181579		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Pseudomonadales	order	1.0	Pseudomonadaceae	family	1.0	Pseudomonas	genus	1.0
+206723_2_2181580		Bacteria	domain	1.0	Bacillota	phylum	1.0	Clostridia	class	1.0	Eubacteriales	order	1.0	Clostridiaceae 1	family	1.0	Clostridium sensu stricto	genus	0.95
+206723_2_2181582		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	0.97	Enterobacteriaceae	family	0.97	Escherichia/Shigella	genus	0.83
+206723_2_2181583		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	0.97	Enterobacteriaceae	family	0.97	Escherichia/Shigella	genus	0.83
+206723_2_2181584		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181585		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181586		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181587		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.9
+206723_2_2181588		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181589		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181590		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181591		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181593		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181594		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181595		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181596		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181597		Bacteria	domain	1.0	Bacillota	phylum	1.0	Clostridia	class	1.0	Eubacteriales	order	1.0	Clostridiaceae 1	family	0.99	Clostridium sensu stricto	genus	0.76
+206723_2_2181599		Bacteria	domain	1.0	Bacillota	phylum	1.0	Clostridia	class	1.0	Eubacteriales	order	1.0	Lachnospiraceae	family	1.0	Faecalicatena	genus	0.69
+206723_2_2181600		Bacteria	domain	1.0	Bacillota	phylum	1.0	Clostridia	class	1.0	Eubacteriales	order	1.0	Clostridiaceae 1	family	1.0	Clostridium sensu stricto	genus	0.95
+206723_2_2181601		Bacteria	domain	1.0	Bacillota	phylum	1.0	Clostridia	class	1.0	Eubacteriales	order	1.0	Clostridiaceae 1	family	1.0	Clostridium sensu stricto	genus	0.95
+206723_2_2181602		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181603		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181604		Bacteria	domain	1.0	Bacteroidota	phylum	1.0	Bacteroidia	class	1.0	Bacteroidales	order	1.0	Bacteroidaceae	family	1.0	Phocaeicola	genus	1.0
+206723_2_2181605		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181606		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181607		Bacteria	domain	1.0	Bacillota	phylum	1.0	Clostridia	class	1.0	Eubacteriales	order	1.0	Clostridiaceae 1	family	1.0	Clostridium sensu stricto	genus	0.95
+206723_2_2181608		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181609		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	0.99	Cronobacter	genus	0.45
+206723_2_2181610		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	0.99	Escherichia/Shigella	genus	0.89
+206723_2_2181611		Bacteria	domain	1.0	Bacteroidota	phylum	1.0	Bacteroidia	class	1.0	Bacteroidales	order	1.0	Bacteroidaceae	family	1.0	Bacteroides	genus	1.0
+206723_2_2181612		Bacteria	domain	1.0	Bacteroidota	phylum	1.0	Bacteroidia	class	1.0	Bacteroidales	order	1.0	Bacteroidaceae	family	1.0	Bacteroides	genus	1.0
+206723_2_2181613		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181614		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181615		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181616		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181618		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181619		Bacteria	domain	1.0	Bacillota	phylum	1.0	Clostridia	class	1.0	Eubacteriales	order	1.0	Clostridiaceae 1	family	1.0	Clostridium sensu stricto	genus	0.95
+206723_2_2181621		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181622		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181623		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181624		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181625		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181626		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181627		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181628		Bacteria	domain	1.0	Bacillota	phylum	1.0	Clostridia	class	1.0	Eubacteriales	order	1.0	Lachnospiraceae	family	1.0	Faecalicatena	genus	0.69
+206723_2_2181629		Bacteria	domain	1.0	Bacillota	phylum	1.0	Clostridia	class	1.0	Eubacteriales	order	1.0	Lachnospiraceae	family	1.0	Mediterraneibacter	genus	0.43
+206723_2_2181630		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181631		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181632		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181633		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181634		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.92
+206723_2_2181635		Bacteria	domain	1.0	Actinomycetota	phylum	1.0	Actinobacteria	class	1.0	Propionibacteriales	order	1.0	Propionibacteriaceae	family	1.0	Cutibacterium	genus	1.0
+206723_2_2181636		Bacteria	domain	1.0	Actinomycetota	phylum	1.0	Actinobacteria	class	1.0	Propionibacteriales	order	1.0	Propionibacteriaceae	family	1.0	Cutibacterium	genus	1.0
+206723_2_2181637		Bacteria	domain	1.0	Actinomycetota	phylum	1.0	Actinobacteria	class	1.0	Propionibacteriales	order	1.0	Propionibacteriaceae	family	1.0	Cutibacterium	genus	1.0
+206723_2_2181638		Bacteria	domain	1.0	Bacteroidota	phylum	1.0	Bacteroidia	class	1.0	Bacteroidales	order	1.0	Bacteroidaceae	family	1.0	Phocaeicola	genus	1.0
+206723_2_2181639		Bacteria	domain	1.0	Bacteroidota	phylum	1.0	Bacteroidia	class	1.0	Bacteroidales	order	1.0	Bacteroidaceae	family	1.0	Phocaeicola	genus	1.0
+206723_2_2181640		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181641		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181642		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181643		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181644		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181645		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181646		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181647		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181648		Bacteria	domain	1.0	Bacillota	phylum	1.0	Clostridia	class	1.0	Eubacteriales	order	1.0	Clostridiaceae 1	family	1.0	Clostridium sensu stricto	genus	0.95
+206723_2_2181649		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Pseudomonadales	order	1.0	Pseudomonadaceae	family	1.0	Pseudomonas	genus	1.0
+206723_2_2181650		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Pseudomonadales	order	1.0	Pseudomonadaceae	family	1.0	Pseudomonas	genus	1.0
+206723_2_2181651		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Pseudomonadales	order	1.0	Pseudomonadaceae	family	1.0	Pseudomonas	genus	1.0
+206723_2_2181652		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181653		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181654		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181655		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181656		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181657		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.86
+206723_2_2181659		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	0.99	Escherichia/Shigella	genus	0.59
+206723_2_2181660		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181661		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181662		Bacteria	domain	1.0	Bacteroidota	phylum	1.0	Bacteroidia	class	1.0	Bacteroidales	order	1.0	Bacteroidaceae	family	1.0	Bacteroides	genus	1.0
+206723_2_2181663		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181664		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181665		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181666		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181667		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181668		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181669		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181670		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181671		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.95
+206723_2_2181672		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181673		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181674		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181675		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181676		Bacteria	domain	1.0	Pseudomonadota	phylum	1.0	Gammaproteobacteria	class	1.0	Enterobacterales	order	1.0	Enterobacteriaceae	family	1.0	Escherichia/Shigella	genus	0.91
+206723_2_2181677		Bacteria	domain	1.0	Bacillota	phylum	1.0	Clostridia	class	1.0	Eubacteriales	order	1.0	Clostridiaceae 1	family	1.0	Clostridium sensu stricto	genus	0.95
