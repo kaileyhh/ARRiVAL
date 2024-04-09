@@ -4,9 +4,9 @@
 # RDPToolsDir=/mnt/research/rdp/public/RDPTools # Path to RDPTools on MSU's HPCC
 RDPToolsDir=~/Desktop/courses-s24/microbiome-networks # Path to RDPTools on my local installation
 ClassifierDir=~/rdp_classifier_2.14/dist
-OutputDir=~/classified/crc/
+OutputDir=~/classified/ibd/
 
-cd "data/crc" || exit
+cd "data/ibd" || exit
 for file in *.fastq; 
 do
     output=${file%.*}"_classified"
