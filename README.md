@@ -15,3 +15,6 @@ The _gut microbiome_ is defined as the class of microorganisms inhabiting the hu
 In current literature, studies have used network-based approaches to characterize the abundance and biodiversity of microbiota in different groups of patients. The ability to understand the differences between the gut microbiome of healthy individuals and diseased states will allow us to design more accurate microbiota-targeted therapeutics as well as gain a larger understanding of the affects of gastrointestinal conditions.
 
 We focus on a network analysis of the connections between taxa in the gut microbiome of IBS and IBD, two common gastrointestinal conditions, and CRC, a cancer which is intimately associated with the gut microbiome, as it makes up much of the tumor's microenvironment. Our work shows the shifts in abundance and interconnectedness of the gut microbiome in these three disease classes, and can aid researchers in microbiota-based disease class annotation.
+
+## Paper
+Access the full paper [here](https://github.com/kaileyhh/ARRiVAL/blob/main/main.pdf).
